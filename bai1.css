@@ -1,0 +1,60 @@
+.title{
+    height: 40px;
+    background-color: rgb(13, 96, 147);
+}
+.title .menu{
+    list-style-type: none;
+}
+.title .menu li{
+    float: left;
+    margin: 0px 0px -35px 45px;
+} 
+
+.title .menu li a{  
+    text-decoration: none;
+    background-color: none;
+    color:white;
+    line-height: 40px;
+    font-size: 16px;
+}
+p.fontcourier{
+    color: red;
+    font-family: "Geneva", Verdana, Sans-Serif;
+    font-size: 22px
+}
+.all{
+    height: 1000px;
+    background:none;
+    width: 800px;
+	height: 1000px;
+    margin-left: 100px;
+}
+h1{
+    font-family: Merriweather;
+    color: #2657af;
+    font-weight: 700;
+    font-size: 1.5625rem;
+    line-height: 2.3125rem;
+    margin-bottom: 15px;
+}   
+p.ngay{
+    color: grey;
+}
+p.vov{
+    color: #333;
+    font-weight: 700;
+    font-size: 1.01rem;
+    line-height: 1.125rem;
+}
+p.stt{
+    font-size: 1.03rem;
+    font-family: Courier;
+    color: black;
+}
+img{
+    display: block;
+    max-width:800px;
+    max-height:700px;
+    width: auto;
+    height: auto;
+  }
